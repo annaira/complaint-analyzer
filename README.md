@@ -1,7 +1,7 @@
 # Complaint Analyzer
 
 This is [atlat](https://atlat.de/) 's submission to expert.ai's hackathon [Turn Language into Action: A Natural Language
-Hackathon for Good](https://expertai-nlapi-092022.devpost.com/).
+Hackathon for Good](https://expertai-nlapi-092022.devpost.com/). This is the API part of the project. The frontend can be found here: [https://github.com/annaira/complaint-analyzer-frontend/](https://github.com/annaira/complaint-analyzer-frontend/).
 
 ## Understand Human Rights Complaints
 

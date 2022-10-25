@@ -13,9 +13,7 @@
     <version>0.0.1-SNAPSHOT</version>
     <name>complaint-analyzer</name>
     <description>complaint-analyzer</description>
-    <properties>
-        <java.version>11</java.version>
-    </properties>
+
     <dependencies>
         <dependency>
             <groupId>org.springframework.boot</groupId>
